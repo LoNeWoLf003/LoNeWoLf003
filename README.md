@@ -19,6 +19,9 @@
 <p align="left">
 <a href="https://codepen.io/@ssgrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ssgrik" height="30" width="40" /></a>
 <a href="[https://www.linkedin.com/in/sayak-sengupta-a613931ba/](https://www.linkedin.com/in/sayak-sengupta-a613931ba/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayak sengupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sayak-sengupta-a613931ba/">
+<img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-orange?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-sengupta-a613931ba/)](https://www.linkedin.com/in/sayak-sengupta-a613931ba/"/>
+</a>
 <a href="https://www.hackerrank.com/sayaksengupta211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sayaksengupta211" height="30" width="40" /></a>
 </p>
 
