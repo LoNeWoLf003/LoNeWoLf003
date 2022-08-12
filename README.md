@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
+<p align="center"><img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" width="500"/></p>
 
 <h1 align="center">Hi 👋, I'm Sayak SenGupta</h1>
 <h3 align="center">A Passionate Web Developer from Kolkata, West Bengal</h3>
