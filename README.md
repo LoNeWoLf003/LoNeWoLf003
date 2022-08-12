@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif)
+<img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
 
 <h1 align="center">Hi 👋, I'm Sayak SenGupta</h1>
 <h3 align="center">A Passionate Web Developer from Kolkata, West Bengal</h3>
