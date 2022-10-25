@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Sayak SenGupta</h1>
 <h3 align="center">A Passionate Web Developer from Kolkata, West Bengal</h3>
-<img align="right" alt="Coding" width="400" src="sayak.png">
-<p align="left"><a href="https://lonewolf003.github.io/portfolio/"><img src="https://komarev.com/ghpvc/?username=lonewolf003&label=Profile%20views&color=0e75b6&style=flat" alt="lonewolf003" /></a> </p>
+<img align="right" alt="Coding" width="400" src="sayak.png"><a href="https://lonewolf003.github.io/portfolio/"></a>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=lonewolf003&label=Profile%20views&color=0e75b6&style=flat" alt="lonewolf003" /> </p>
 
 - 🌱 I’m currently learning **Data Structures, Advanced Python, Database Connectivity, Front End Development and many more such amazing topics!**
 
