@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lonewolf003&show_icons=true&locale=en" alt="lonewolf003" /></p>
 
-[![Sayak's Holopin board](https://holopin.me/lonewolf00747)](https://holopin.io/@lonewolf00747)
+[![My Holopin board](https://holopin.me/lonewolf00747)](https://holopin.io/@lonewolf00747)
