@@ -39,11 +39,6 @@
 </div>
 
 
-### Statistics :  
-<div align=center> 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LoNeWoLf003&theme=highcontrast)
-</div>
 
 [![My Holopin board](https://holopin.me/lonewolf00747)](https://holopin.io/@lonewolf00747)
 
