@@ -65,6 +65,3 @@ Hello
 [![My Holopin board](https://holopin.me/lonewolf00747)](https://holopin.io/@lonewolf00747)
 
 [![Sayak's github activity graph](https://activity-graph.herokuapp.com/graph?username=LoNeWoLf003&theme=react-dark)](https://github.com/LoNeWoLf003)
-
-### Wanna listen to what I am listening to ? :)  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h9gdjz5r27dtvut5l6xn78y9m&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
