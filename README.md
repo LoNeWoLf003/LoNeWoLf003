@@ -64,4 +64,9 @@ Hello
 
 [![My Holopin board](https://holopin.me/lonewolf00747)](https://holopin.io/@lonewolf00747)
 
-[![Sayak's github activity graph](https://activity-graph.herokuapp.com/graph?username=LoNeWoLf003&theme=react-dark)](https://github.com/LoNeWoLf003)
+<h3 align="left">Watch as a Snake eats up all my contributions :(</h3>
+<div align=center>            
+   <a href="https://github.com/LoNeWoLf003">
+   <img align="center" alt="Snake" width=100% src="https://github.com/LoNeWoLf003/LoNeWoLf003/blob/output/github-contribution-grid-snake.gif" />
+   </a>
+</div>
