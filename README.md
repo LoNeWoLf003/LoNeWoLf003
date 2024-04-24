@@ -23,7 +23,7 @@ Hello
 
 - ⚡ Fun fact **I have been training in Indian Classical Music for 14 years!**
 
--  💁‍♂️ Wanna see more about me ? Click -> https://sayaktech.works/
+-  💁‍♂️ Wanna see more about me ? Click -> https://sayaktech.me/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
